@@ -3,6 +3,7 @@
 * Distributed under the LGPL license (https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt)
 **/
 #pragma once
+#include <cstdint>
 #include <map>
 namespace common
 {
